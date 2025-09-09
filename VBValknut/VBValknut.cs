@@ -16,7 +16,7 @@ namespace VBValknut
             _self = this;
             Localizer.Load();
             asset = AssetUtils.LoadAssetBundleFromResources("valknut", typeof(VBValknut).Assembly);
-
+//bvbn
             vb_hen.Init();
             
             Harmony.CreateAndPatchAll(Assembly.GetExecutingAssembly(), "VitByr.VBValknut");
