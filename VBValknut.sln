@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VBValknut", "VBValknut\VBValknut.csproj", "{D9C87954-CE20-459D-81EC-96599CAED427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C87954-CE20-459D-81EC-96599CAED427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C87954-CE20-459D-81EC-96599CAED427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C87954-CE20-459D-81EC-96599CAED427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C87954-CE20-459D-81EC-96599CAED427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7A57FC6-424C-4BA4-9086-E3F407AA2071}
+	EndGlobalSection
+EndGlobal

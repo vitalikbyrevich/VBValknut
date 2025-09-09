@@ -1,0 +1,63 @@
+E:\ValheimMod\Source mod\Valknut\VBValknut\obj\Debug\VBValknut.csproj.AssemblyReference.cache
+E:\ValheimMod\Source mod\Valknut\VBValknut\obj\Debug\VBValknut.csproj.CoreCompileInputs.cache
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\Libs\ItemManager.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\Libs\LocalizationManager.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\Libs\YamlDotNet.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\translations\English.yml
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\translations\Russian.yml
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\assets\alcocoin
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\assets\valknut
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\Libs\ServerSync.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\VBValknut.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\VBValknut.pdb
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\0Harmony.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\assembly_valheim_publicized.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\BepInEx.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\CreatureManager.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\ItemManager.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\LocalizationManager.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\ServerSync.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\UnityEngine.CoreModule.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\UnityEngine.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\YamlDotNet.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\UnityEngine.AnimationModule.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\SoftReferenceableAssets.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\gui_framework.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\UnityEngine.InputLegacyModule.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\UnityEngine.InputModule.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\YamlDotNet.xml
+E:\ValheimMod\Source mod\Valknut\VBValknut\obj\Debug\VBValknut.csproj.CopyComplete
+E:\ValheimMod\Source mod\Valknut\VBValknut\obj\Debug\VBValknut.dll
+E:\ValheimMod\Source mod\Valknut\VBValknut\obj\Debug\VBValknut.pdb
+E:\ValheimMod\Source mod\Valknut\VBValknut\bin\Debug\Libs\CreatureManager.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\Libs\LocalizationManager.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\Libs\YamlDotNet.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\translations\English.yml
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\translations\Russian.yml
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\assets\valknut
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\VBValknut.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\VBValknut.pdb
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\0Harmony.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\assembly_valheim_publicized.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\BepInEx.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\Jotunn.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\LocalizationManager.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\UnityEngine.CoreModule.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\UnityEngine.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\YamlDotNet.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\UnityEngine.AnimationModule.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\SoftReferenceableAssets.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\gui_framework.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\Unity.InputSystem.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\UnityEngine.InputLegacyModule.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\UnityEngine.InputModule.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\bin\Debug\YamlDotNet.xml
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\obj\Debug\VBValknut.csproj.AssemblyReference.cache
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\obj\Debug\VBValknut.csproj.CoreCompileInputs.cache
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\obj\Debug\VBValknut.csproj.CopyComplete
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\obj\Debug\VBValknut.dll
+E:\ValheimMod\Source mod\VBValknut Jotunn\VBValknut\obj\Debug\VBValknut.pdb
